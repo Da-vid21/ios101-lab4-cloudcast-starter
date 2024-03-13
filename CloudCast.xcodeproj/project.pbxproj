@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6369E98D2BA137DA0022BD7E /* WeatherForecastService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6369E98C2BA137DA0022BD7E /* WeatherForecastService.swift */; };
 		997BF5EB29D4838D0099F2B4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997BF5EA29D4838D0099F2B4 /* AppDelegate.swift */; };
 		997BF5ED29D4838D0099F2B4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997BF5EC29D4838D0099F2B4 /* SceneDelegate.swift */; };
 		997BF5EF29D4838D0099F2B4 /* ForecastViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997BF5EE29D4838D0099F2B4 /* ForecastViewController.swift */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6369E98C2BA137DA0022BD7E /* WeatherForecastService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherForecastService.swift; sourceTree = "<group>"; };
 		997BF5E729D4838D0099F2B4 /* CloudCast.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CloudCast.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		997BF5EA29D4838D0099F2B4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		997BF5EC29D4838D0099F2B4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -107,6 +109,7 @@
 				99E9824829D7944B0084E9EB /* CurrentWeatherForecast.swift */,
 				997BF5F029D4838D0099F2B4 /* Main.storyboard */,
 				997BF5F329D4838E0099F2B4 /* Assets.xcassets */,
+				6369E98C2BA137DA0022BD7E /* WeatherForecastService.swift */,
 				997BF5F529D4838E0099F2B4 /* LaunchScreen.storyboard */,
 				997BF5F829D4838E0099F2B4 /* Info.plist */,
 			);
@@ -263,6 +266,7 @@
 			files = (
 				997BF5EF29D4838D0099F2B4 /* ForecastViewController.swift in Sources */,
 				997BF5EB29D4838D0099F2B4 /* AppDelegate.swift in Sources */,
+				6369E98D2BA137DA0022BD7E /* WeatherForecastService.swift in Sources */,
 				997BF5ED29D4838D0099F2B4 /* SceneDelegate.swift in Sources */,
 				99E9824929D7944B0084E9EB /* CurrentWeatherForecast.swift in Sources */,
 			);
